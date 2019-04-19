@@ -1,5 +1,4 @@
-# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/music.svg' card_color='#18A5DF' width='50' height='50' style='vertical-align:bottom'/>
- Sonos Control
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/music.svg' card_color='#18A5DF' width='50' height='50' style='vertical-align:bottom'/> Sonos Control
 Control Sonos speakers from Mycroft
 
 ## About 
@@ -19,8 +18,6 @@ Assumes all speakers are in one group.
 
 ## Credits 
 @fortwally
-
-
 
 ## Category
 **Media**
